@@ -1,0 +1,8 @@
+node_modules
+.next
+.next-*/
+package-lock.json
+iHealth_HapIsabela_Codex_Prototype_Prompts.md
+premium-audit.json
+playwright-report
+test-results
